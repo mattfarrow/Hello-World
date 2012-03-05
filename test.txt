@@ -6,4 +6,6 @@ And this is a new line from home.
 
 And this is some text added via GitHub.
 
-And now some more text from GitHub
+And now some more text from GitHub.
+
+And some more text from home.
