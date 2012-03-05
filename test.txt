@@ -3,3 +3,5 @@ This is a test. Here's some more text. And now I'm adding some more text. Now le
 And a new line.
 
 And this is a new line from home.
+
+And this is some text added via GitHub.
