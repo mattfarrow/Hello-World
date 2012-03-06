@@ -1,3 +1,5 @@
 This is a new file created in Notepad++ and added using the Git plugin.
 
 OK, need tortoisegit, which can't be installed on my machine, so it won't work. Will use Git GUI instead.
+
+This line added via github.
